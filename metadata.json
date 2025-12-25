@@ -1,0 +1,7 @@
+{
+  "name": "EnglishPro AI",
+  "description": "Nền tảng học tiếng Anh chuyên nghiệp hỗ trợ bởi AI Gemini, với các bài tập cá nhân hóa, giải thích ngữ pháp và gia sư AI phản hồi thời gian thực.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
